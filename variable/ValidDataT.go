@@ -55,7 +55,7 @@ func main() {
 			NONCE:     "1231231232",
 			TOKEN:     "",
 		},
-		"yadi2023@04.",
+		"",
 	}
 	fmt.Println(a)
 	fmt.Println(GetMD5Encode(aba(verifyHead)))
